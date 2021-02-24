@@ -3,7 +3,7 @@
 
 <dl>
 - 🌱 I’m currently learning:
-  <li> C#</li>
+  <li> C#, .Net</li>
   <li> JavaScript, TypeScrypt</li>
   <li> Angular</li>
   <li> React</li>
