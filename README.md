@@ -2,7 +2,7 @@
 
 
 <dl>
-<ul>- 🌱 I’m currently learning:</ul>
+- 🌱 I’m currently learning:
 <li> C#</li>
 <li> JavaScript, TypeScrypt</li>
 <li> Angular</li>
