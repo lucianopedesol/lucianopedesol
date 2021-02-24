@@ -3,10 +3,10 @@
 
 <dl>
 <dt>- 🌱 I’m currently learning</dt>
-<dd> C#</dd>
-<dd> JavaScript, TypeScrypt</dd>
-<dt> Angular</dt>
-<dd> React</dd>
+<li> C#</li>
+<li> JavaScript, TypeScrypt</li>
+<li> Angular</li>
+<li> React</li>
 </dl>
 
 - 📫 How to reach me: https://www.linkedin.com/in/lucianopedesol/
