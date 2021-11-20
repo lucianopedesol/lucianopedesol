@@ -1,13 +1,11 @@
-### Hi there 👋
-<br>
+Desenvolvedor no @GrupoAguiaBranca 🚌✈️
 
-<dl>
-- 🌱 I’m currently learning:
-  <li> C#, .Net</li>
-  <li> JavaScript, TypeScrypt</li>
-  <li> Angular</li>
-  <li> React</li>
-</dl>
-<br>
-<ul>- 📫 How to reach me: https://www.linkedin.com/in/lucianopedesol/</ul>
+Estudante de Engenharia da Computação e um constante aprendiz no desenvolvimento de tecnologias. E claro, um apaixonado por desafios que gosta de poder criar soluções fazendo a diferença no que faz!!! 
 
+Possuo experiência em desenvolvimento de aplicações, atuando como full stack e utilizando tecnologias como:
+
+✔️C#,
+✔️ .Net, 
+✔️JavaScript & TypeScript,
+✔️ Angular 
+✔️React.
