@@ -4,8 +4,8 @@ Estudante de Engenharia da Computação e um constante aprendiz no desenvolvimen
 
 Possuo experiência em desenvolvimento de aplicações, atuando como full stack e utilizando tecnologias como:
 
-✔️C#,
-✔️ .Net, 
-✔️JavaScript & TypeScript,
-✔️ Angular 
-✔️React.
+✔️C# <br>
+✔️.Net<br>
+✔️JavaScript & TypeScript<br>
+✔️ Angular <br>
+✔️React<br>
