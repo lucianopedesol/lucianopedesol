@@ -1,11 +1,5 @@
 Desenvolvedor no @GrupoAguiaBranca 🚌✈️
 
-Estudante de Engenharia da Computação e um constante aprendiz no desenvolvimento de tecnologias. E claro, um apaixonado por desafios que gosta de poder criar soluções fazendo a diferença no que faz!!! 
+Atuando no desenvolvimento de sistemas utilizando tecnologias como C#, .Net Core, Javascript, Typescript.
 
-Possuo experiência em desenvolvimento de aplicações, atuando como full stack e utilizando tecnologias como:
-
-✔️C# <br>
-✔️.Net<br>
-✔️JavaScript & TypeScript<br>
-✔️ Angular <br>
-✔️React<br>
+Possuo um amplo conhecimento em Angular, utilizando Schematics para geração automática de modelos de código, Leaflet Map API, HTML, SCSS, Angular Material e Bootstrap. Também atuando no desenvolvimento de aplicações Mobile com React-Native utilizando RealmDb, Styled Components, React-Native Providers e React-Native Hooks.
