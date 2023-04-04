@@ -1,4 +1,4 @@
-Desenvolvedor no @GrupoAguiaBranca 🚌✈️
+Desenvolvedor no Grupo Águia Branca 🚌✈️
 
 Atuando no desenvolvimento de sistemas utilizando tecnologias como C#, .Net Core, Javascript, Typescript.
 
